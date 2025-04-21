@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/Pagina-Fisica/static/css/main.49adeedf.css",
+    "main.js": "/Pagina-Fisica/static/js/main.b4d779c2.js",
+    "static/js/453.234b9ce1.chunk.js": "/Pagina-Fisica/static/js/453.234b9ce1.chunk.js",
+    "static/media/ImagenF.svg": "/Pagina-Fisica/static/media/ImagenF.f93cee1fb24e6165af3163ce03d44027.svg",
+    "index.html": "/Pagina-Fisica/index.html",
+    "main.49adeedf.css.map": "/Pagina-Fisica/static/css/main.49adeedf.css.map",
+    "main.b4d779c2.js.map": "/Pagina-Fisica/static/js/main.b4d779c2.js.map",
+    "453.234b9ce1.chunk.js.map": "/Pagina-Fisica/static/js/453.234b9ce1.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.49adeedf.css",
+    "static/js/main.b4d779c2.js"
+  ]
+}
